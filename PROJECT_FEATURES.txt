@@ -1,0 +1,9 @@
+
+1. AI Concept Explainer
+2. Notes Summarizer
+3. Quiz Generator
+4. Flashcard Generator
+5. Study Planner
+6. Doubt Solver Chatbot
+7. Difficulty Levels
+8. Multi-language Support (future)
