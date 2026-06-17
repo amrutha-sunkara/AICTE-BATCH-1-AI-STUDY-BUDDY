@@ -28,7 +28,7 @@ function App() {
     setMessages((prev) => [...prev, userMsg]);
 
     try {
-      const response = await fetch(`http://localhost:5000/${endpoint}`, {
+      const response = await fetch(`https://aicte-batch-1-ai-study-buddy.onrender.com/${endpoint}`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(body),
